@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"can",
+				"canWinNim"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/workspace/CodeBlocks workspace/Test3/fuck3.dat",
+		"/E/workspace/Sublime workspace/Machine Learning/Logistic Regression/lr.py",
+		"/C/Users/monitor1379/Desktop/Visual Studio 2015下OpenCV 3.1 配置.md",
+		"/E/workspace/Sublime workspace/test python/Main.java",
+		"/E/workspace/Sublime workspace/test python/test.py",
+		"/C/Users/monitor1379/AppData/Roaming/Sublime Text 3/Installed Packages/ChineseLocalization.sublime-package",
+		"/C/Users/monitor1379/AppData/Roaming/Sublime Text 3/Packages/ZZZZZZZZ-Localization/Main.sublime-menu",
+		"/C/Users/monitor1379/Desktop/test.py",
+		"/C/Users/monitor1379/Desktop/test",
+		"/C/Users/monitor1379/Desktop/lmsdb3.sql",
+		"/F/1.大学/2.CH2R/2016-03-31 标注任务/Ch2R/表态#肯定.aiml",
+		"/F/1.大学/2.CH2R/2016-03-31 标注任务/Ch2R/表态#否定.aiml",
+		"/C/Users/monitor1379/AppData/Local/Temp/Rar$DIa0.438/导购#详情.aiml",
+		"/C/Users/monitor1379/AppData/Local/Temp/Rar$DIa0.117/表态#否定.aiml",
+		"/E/workspace/Pycharm workspace/SchoolLibrary/spider/booksinfo 2016-03-28.xml",
+		"/E/workspace/Pycharm workspace/SchoolLibrary/spider/db_2016-03-28.sql",
+		"/C/Users/monitor1379/Desktop/page.html",
+		"/C/Users/monitor1379/Desktop/新建文本文档.cpp",
+		"/E/workspace/eclipse workspace/.metadata/.plugins/org.eclipse.wst.server.core/publish.xml",
+		"/E/workspace/eclipse workspace/.metadata/.plugins/org.eclipse.wst.server.core/monitors.xml",
+		"/E/workspace/eclipse workspace/.metadata/.plugins/org.eclipse.wst.server.core/modules.xml",
+		"/E/workspace/eclipse workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.server.tomcat.core.prefs",
+		"/E/workspace/eclipse workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs",
+		"/E/workspace/eclipse workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp-data.xml",
+		"/E/workspace/eclipse workspace/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml",
+		"/E/workspace/Pycharm workspace/SchoolLibrary/justtest/books.xml",
+		"/E/workspace/Pycharm workspace/SchoolLibrary/spider/booksinfo 2016-03-10.xml",
+		"/F/2资源/学习资料/华南农业大学图书馆爬虫/版本1/数据/booksinfo 2016-03-10.xml",
+		"/F/1大学/1课程学习/大三/第二学期/数据库课程设计/材料/设计/数据库设计MySQL代码/lmsdb2.5.sql",
+		"/E/workspace/NetBeans workspace/LMS/dist/LMS.html",
+		"/C/Users/monitor1379/Desktop/新建文本文档.html",
+		"/F/2资源/学习资料/Java资源/JavaFX系列/javafx demo/demo/javafx_samples/src/Ensemble8/nbproject/project.properties",
+		"/F/2资源/学习资料/Java资源/JavaFX系列/javafx demo/demo/javafx_samples/src/Ensemble8/src/app/java/ensemble/control/Popover.java",
+		"/E/git/LeetCode/36. Valid Sudoku.cpp",
+		"/E/data/temp data/lmsdb.sql",
+		"/C/Users/monitor1379/Desktop/administrator.sql",
+		"/C/Users/monitor1379/Desktop/stack_room.sql",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/src/main/PPTPane.java",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/nbproject/private/private.xml",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/src/faceDetection/AdaBoost.java",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/src/main/Config.java",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/src/main/FaceDetectionPane.java",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/src/main/PhotoPane.java",
+		"/E/download/迅雷下载/netbeans-8.1-javaee-linux.sh.td",
+		"/E/backup/代码备份/NetBeansProjects_workspace/AIOS5.0/src/fatTableView/FATTableView.java",
+		"/E/backup/代码备份/NetBeansProjects_workspace/AIOS5.0/src/help/HelpStage.java",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/src/main/DirectoryDataPane.java",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/build.xml",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/nbproject/build-impl.xml",
+		"/F/2资源/学习资料/Java资源/代码备份/NetBeans代码备份/Magi/nbproject/private/configs/_______.properties",
+		"/E/download/BaiduYunDownload/sogou.500w.utf8",
+		"/C/Users/monitor1379/Desktop/borrower.sql",
+		"/C/Users/monitor1379/Desktop/bianmu/bianmu.ISO",
+		"/C/Users/monitor1379/Desktop/fudan_marc_2014_08/复旦大学出版社Marc数据（iso、excel格式）2014年8月/复旦大学出版社Marc数据2014年8月（iso格式） - 副本.iso",
+		"/C/Users/monitor1379/Desktop/fudan_marc_2014_08/复旦大学出版社Marc数据（iso、excel格式）2014年8月/复旦大学出版社Marc数据2014年8月（iso格式）.iso",
+		"/C/Users/monitor1379/Desktop/gg.xml",
+		"/E/git/LeetCode/111. Minimum Depth of Binary Tree.cpp",
+		"/C/Users/monitor1379/Desktop/MarcView/marcview.ini",
+		"/C/Users/monitor1379/Desktop/yarn-site.xml",
+		"/E/git/LeetCode/新建文本文档.cpp",
+		"/E/git/LeetCode/119. Pascal's Triangle II.cpp",
+		"/E/git/LeetCode/112. Path Sum.cpp",
+		"/E/git/LeetCode/9. Palindrome Number.cpp",
+		"/E/workspace/Pycharm workspace/FSM/README.md",
+		"/F/2资源/简历模板/应聘XX岗位_姓名_学校_手机号/应聘XX岗位_姓名_学校_手机号.html",
+		"/E/git/LeetCode/172. Factorial Trailing Zeroes.cpp",
+		"/E/workspace/Pycharm workspace/Test/spider/booksinfo 2016-03-10.xml",
+		"/E/workspace/Pycharm workspace/Test/spider/booksinfo.xml",
+		"/C/Users/monitor1379/Desktop/results.html",
+		"/C/Users/monitor1379/Desktop/fuck.html",
+		"/C/Users/monitor1379/Desktop/fuck2.html",
+		"/C/Users/monitor1379/Desktop/tree.html",
+		"/E/workspace/Pycharm workspace/Test/justtest/fuck.xml",
+		"/C/Users/monitor1379/Desktop/0001.html",
+		"/C/Users/monitor1379/Desktop/test.html",
+		"/C/Users/monitor1379/Desktop/报刊所载毛泽东同志言论、著作、文电编目.html",
+		"/E/download/Chrome Download/pycharm5hhb/pycharm5.0汉化包/zh_CN/ActionsBundle.properties",
+		"/E/git/LeetCode/102. Binary Tree Level Order Traversal.cpp",
+		"/E/git/LeetCode/118. Pascal's Triangle.cpp",
+		"/E/git/LeetCode/66. Plus One.cpp",
+		"/E/git/LeetCode/26. Remove Duplicates from Sorted Array.cpp",
+		"/E/git/LeetCode/027. Remove Element.cpp",
+		"/E/git/LeetCode/107. Binary Tree Level Order Traversal II.cpp",
+		"/E/git/LeetCode/27. Remove Element.cpp",
+		"/E/git/LeetCode/198. House Robber.cpp",
+		"/E/git/LeetCode/110. Balanced Binary Tree.cpp",
+		"/E/git/LeetCode/101. Symmetric Tree.cpp",
+		"/E/git/LeetCode/232. Implement Queue using Stacks.cpp",
+		"/E/git/LeetCode/21. Merge Two Sorted Lists.cpp",
+		"/E/git/LeetCode/231. Power of Two.cpp",
+		"/E/git/LeetCode/202. Happy Number.cpp",
+		"/E/git/LeetCode/326. Power of Three.cpp",
+		"/E/git/LeetCode/263. Ugly Number.cpp",
+		"/E/git/LeetCode/83. Remove Duplicates from Sorted List.cpp",
+		"/E/git/LeetCode/70. Climbing Stairs.cpp",
+		"/E/git/LeetCode/328. Odd Even Linked List.cpp",
+		"/E/git/LeetCode/191. Number of 1 Bits.cpp",
+		"/E/git/LeetCode/235 Lowest Common Ancestor of a Binary Search Tree.cpp",
+		"/E/git/LeetCode/169 Majority Element.cpp",
+		"/E/git/LeetCode/206 Reverse Linked List.cpp",
+		"/E/git/LeetCode/171 Excel Sheet Column Number.cpp",
+		"/E/git/LeetCode/217 Contains Duplicate.cpp",
+		"/E/git/LeetCode/100 Same Tree.cpp",
+		"/E/git/LeetCode/242 Valid Anagram.cpp",
+		"/E/git/LeetCode/283 Move Zeroes.cpp",
+		"/E/git/LeetCode/226 Invert Binary Tree.cpp",
+		"/E/git/LeetCode/237 Delete Node in a Linked List.cpp",
+		"/E/git/LeetCode/258 Add Digits.cpp",
+		"/E/git/LeetCode/292 Nim Game.cpp",
+		"/E/git/LeetCode/104 Maximum Depth of Binary Tree.cpp",
+		"/E/git/LeetCode/README.md",
+		"/C/Users/monitor1379/.ssh/id_rsa",
+		"/C/Users/monitor1379/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'')\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\workspace\\Sublime workspace\\test python\\test.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

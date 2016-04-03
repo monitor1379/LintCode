@@ -1,2 +1,2 @@
 # LintCode
-LintCode solution in C++
+This is my LintCode solution in C++
